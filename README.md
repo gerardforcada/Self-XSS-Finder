@@ -1,18 +1,18 @@
 # Self-XSS-Finder
 Finding XSS with the X-FORWARDED-FOR header
 
-#Dependencies
+# Dependencies
 google
 requests 
 
-#Install
+# Install
 ```sudo pip install google requests```
 
-#Quick-Start
+# Quick-Start
 
 ```python3 xss_finder.py .gov```
 
 
-#Authors
+# Authors
 
 lmaohtp
